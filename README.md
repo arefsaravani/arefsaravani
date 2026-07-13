@@ -10,8 +10,6 @@ I'm naturally curious and I rarely stop at "it works"—I want to understand why
 
 Most of my projects are part of my learning journey. They may start simple, but each one teaches me something new and brings me one step closer to becoming a penetration tester.
 
-Behind every website, application, or service, there are people who rely on those systems every day.
-
 ## Currently Learning
 
 - Linux
